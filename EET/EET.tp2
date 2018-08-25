@@ -1,6 +1,6 @@
 BACKUP ~EET/backup~
 AUTHOR ~K4thos (swit)~
-VERSION ~1.0 RC11~
+VERSION ~1.0 RC12~
 README ~EET/lang/%LANGUAGE%/readme-EET.html~ ~EET/readme-EET.html~
 
 LANGUAGE ~English~
@@ -2263,6 +2263,8 @@ END
 ACTION_IF found_exe = 0 BEGIN
 	FAIL ~Baldur's Gate II executable not found~
 END
+
+BEGIN ~Biffing~ // this needs --tra-ing of course. 
 
 /////                                                  \\\\\
 ///// Biffing                                          \\\\\
